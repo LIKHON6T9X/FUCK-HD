@@ -1,1 +1,128 @@
-COOKIE CHARA BOT CHOLE AMR 😩🫰
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261552253837345%22%3A%22kO1Bk35d%22%2C%2261555031877464%22%3A%229jkAFGmO%22%2C%2261568323491067%22%3A%22m2d4E2IU%22%2C%2261568203341828%22%3A%22FTIVoVyX%22%2C%2261552967567667%22%3A%22OFRHWC7N%22%2C%2261568401433937%22%3A%22atHleRAb%22%2C%22100021179196129%22%3A%224CQk8yp9%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.580Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "sb",
+        "value": "wEAOZzGxG5GPm0VQ0Wbc8GKv",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "datr",
+        "value": "-UAbZzbzgTlSlBFQDVjxvT9C",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.0574541091918945",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "wd",
+        "value": "444x695",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100021179196129",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "fr",
+        "value": "17JDrRnAzNeVfBhgN.AWXjoZEl1EW4c_26krqc0eJahsY.BnJG3Q..AAA.0.0.BnLBfs.AWVyrmtCngE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "xs",
+        "value": "5%3AZEoSPe_8XDhniw%3A2%3A1730942959%3A-1%3A5497",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B590x377x1.0840239524841309",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101538067%3BT%3A28849072",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2665%3Btimestamp%3A1730944348",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-11-07T01:52:34.582Z",
+        "lastAccessed": "2024-11-07T01:52:34.582Z"
+    }
+]
