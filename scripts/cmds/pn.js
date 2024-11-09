@@ -1,8 +1,8 @@
 module.exports = {
   config: {
-    name: "pending",
+    name: "pn",
     version: "1.0",
-    author: "ARYAN",
+    author: "BADOL-2.0",
     countDown: 5,
     role: 2,
     shortDescription: {
