@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "Reply",
 	version: "1.0.2",
-	role: 2,
+	role: 0,
 	author: "Nayan/mostakim",
 	prefix: false,
 	category: "without prefix",
@@ -49,9 +49,9 @@ react.includes("tor mare xudi") || react.includes("vuda") || react.includes("hed
 				body: "━━━━━━━━━━━━━━━━━━━━\n╭┈ ❒ 💬 | 𝐌𝐄𝐒𝐒𝐄𝐆𝐄:\n╰┈➤ এখানে গালাগালি করলে মুখ সেলাই কইরা দিমু..!!😾━━━━━━━━━━━━━━━━━━━━━━\n✿◕𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑: 𝐋𝐈𝐊𝐇𝐎𝐍 𝐗𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘◕✿🌚!!😾"
 			}
 			api.sendMessage(msg, threadID, messageID);
-    api.setMessageReaction("😠", event.messageID, (err) => {}, true)
+    api.setMessageReaction("🔞", event.messageID, (err) => {}, true)
 		}
 	}
 	module.exports.onStart = function({ api, event, client, __GLOBAL }) {
 
-     }
+	       }
